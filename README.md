@@ -1,2 +1,2 @@
 # HeyGwen
-Practicing creating a branch, making an edit, then commiting the branch to master
+Practicing creating a branch, commit an edit, then merging the branch to master
